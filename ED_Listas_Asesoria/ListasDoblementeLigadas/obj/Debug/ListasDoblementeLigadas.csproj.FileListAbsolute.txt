@@ -6,3 +6,11 @@ D:\Users\BMS\source\repos\ED_Listas_Asesoria\ListasDoblementeLigadas\obj\Debug\L
 D:\Users\BMS\source\repos\ED_Listas_Asesoria\ListasDoblementeLigadas\obj\Debug\ListasDoblementeLigadas.csproj.CoreCompileInputs.cache
 D:\Users\BMS\source\repos\ED_Listas_Asesoria\ListasDoblementeLigadas\obj\Debug\ListasDoblementeLigadas.exe
 D:\Users\BMS\source\repos\ED_Listas_Asesoria\ListasDoblementeLigadas\obj\Debug\ListasDoblementeLigadas.pdb
+D:\Users\BMS\Source\Repos\ED_Listas_Asesoria_Morales\ED_Listas_Asesoria\ListasDoblementeLigadas\bin\Debug\ListasDoblementeLigadas.exe.config
+D:\Users\BMS\Source\Repos\ED_Listas_Asesoria_Morales\ED_Listas_Asesoria\ListasDoblementeLigadas\bin\Debug\ListasDoblementeLigadas.exe
+D:\Users\BMS\Source\Repos\ED_Listas_Asesoria_Morales\ED_Listas_Asesoria\ListasDoblementeLigadas\bin\Debug\ListasDoblementeLigadas.pdb
+D:\Users\BMS\Source\Repos\ED_Listas_Asesoria_Morales\ED_Listas_Asesoria\ListasDoblementeLigadas\obj\Debug\ListasDoblementeLigadas.csproj.AssemblyReference.cache
+D:\Users\BMS\Source\Repos\ED_Listas_Asesoria_Morales\ED_Listas_Asesoria\ListasDoblementeLigadas\obj\Debug\ListasDoblementeLigadas.csproj.SuggestedBindingRedirects.cache
+D:\Users\BMS\Source\Repos\ED_Listas_Asesoria_Morales\ED_Listas_Asesoria\ListasDoblementeLigadas\obj\Debug\ListasDoblementeLigadas.csproj.CoreCompileInputs.cache
+D:\Users\BMS\Source\Repos\ED_Listas_Asesoria_Morales\ED_Listas_Asesoria\ListasDoblementeLigadas\obj\Debug\ListasDoblementeLigadas.exe
+D:\Users\BMS\Source\Repos\ED_Listas_Asesoria_Morales\ED_Listas_Asesoria\ListasDoblementeLigadas\obj\Debug\ListasDoblementeLigadas.pdb
